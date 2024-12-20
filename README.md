@@ -6,3 +6,4 @@ A personalised extremely basic NVIM configuration.
 - Lazy
 - Telescope
 - Treesitter
+- Indenting
